@@ -1,0 +1,19 @@
+Why don't we version control everything?
+
+You've probably never asked yourself this question. But once you see it, you're probably thinking, "Yeah, why don't we apply version control to everything?"
+
+Consider this: If you're an admin in a large company, you spend a good deal of time working to keep track of inventories and ensuring documentation is up to date and spec. You also know that your developers are able to work as efficiently as they do because of version control systems. 
+
+At the heart of version control systems is the ability to travel back in time to a point where a system functioned as expected. Along those same lines is the ability to create a new branch, in order to test new features and functionality. Imagine you could apply that to your network devices or servers.
+
+Or, beyond technology, what other professions could benefit from version control? I'm a professional writer. I not only write about technology, I also write fiction. And although Google Drive (where I write all of my first drafts) has a version control system, it's nowhere near as powerful as the likes of Git. I can't do pulls, pushes, merges, or branches with the rudimentary version control in Google Docs. It wasn't built for such a purpose.
+
+But I can go back and look at different revisions of drafts. I can make copies of versions, name versions, and restore versions. But that's about it. Even so, it's a very handy tool, which allows me to revert to previous versions of a file (should things go awry). And, if I want to create a "branch," I just have to create and name a copy of the current version. Apple Pages has a pseudo version history, because every time you save it saves a new file. 
+
+But neither of those systems are true version control. And both systems would greatly benefit from a version control system. This is especially so when you collaborate on a document. I work with a number of editors on different projects, and track changes/comments isn't always the best solution for larger documents. And I know plenty of fellow authors who've suffered data loss. Without the aid of some form of backup, they constantly run the risk of losing hours, days, or weeks worth of work.
+
+It happens.
+
+With a version control system in place, that loss could be mitigated. 
+
+And guess what? You can actuall 
